@@ -15,14 +15,14 @@ export const usePriceSwitcher = () => {
     },
     enterprise: {
       default: 2520,
-      wtichSale: 2100,
+      witchSale: 2100,
     },
   };
 
   const setPricesWitchSale = () => {
     starterPrice.textContent = priceList.starter.witchSale;
     popularPrice.textContent = priceList.popular.witchSale;
-    entriesPrice.textContent = priceList.enterprise.wtichSale;
+    entriesPrice.textContent = priceList.enterprise.witchSale;
   };
 
   const setDefaultPrices = () => {
