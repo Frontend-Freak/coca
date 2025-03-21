@@ -1,1 +1,1 @@
-https://frontend-freak.github.io/coca/
+https://coca-rouge.vercel.app
